@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi", "BookingApi\BookingApi.csproj", "{78136460-3F16-490E-849B-8EA9F89BA235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi.IntegrationTests", "BookingApi.IntegrationTests\BookingApi.IntegrationTests.csproj", "{2064BD9E-E4A9-46A7-B4AB-B8658DE0DC04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78136460-3F16-490E-849B-8EA9F89BA235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78136460-3F16-490E-849B-8EA9F89BA235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78136460-3F16-490E-849B-8EA9F89BA235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78136460-3F16-490E-849B-8EA9F89BA235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2064BD9E-E4A9-46A7-B4AB-B8658DE0DC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2064BD9E-E4A9-46A7-B4AB-B8658DE0DC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2064BD9E-E4A9-46A7-B4AB-B8658DE0DC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2064BD9E-E4A9-46A7-B4AB-B8658DE0DC04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
