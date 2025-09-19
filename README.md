@@ -75,7 +75,7 @@ Architecture and Filtering Logic
 4. DTO Projection: Only include the slots within the requested range in the response.
 
 5. Performance Consideration:
-   * AvailableSlots are stored as HashSet<DateTime> cnally for fast lookups.
+   * AvailableSlots are stored as HashSet<DateTime> internally for fast lookups.
    * The API uses asynchronous programming to avoid blocking.
 
 ## Example Response
